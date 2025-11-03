@@ -2,16 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=650&lines=Jackson+Lafrance;Dev+Degree+Intern;Carleton+University+Student;Blackjack+Enjoyer;Juggling+Amateur;Lifting+Enthusiast;Clash+Aficionado;NBA+Lover;Code+Writer;Harry+Potter+Expert;Civ+VI+Fan;Book+Worm;Pumpkin+Pie+Addict;Energy+Drinker" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=jackson-lafrance&color=FF6B9D&style=for-the-badge&label=VISITORS)
-  
-</div>
-
----
-
 ## 🚀 About Me
 
 <div align="center">
@@ -101,5 +91,13 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=Thanks+for+Visiting!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  
+</div>
+
+<br/>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=jackson-lafrance&color=FF6B9D&style=for-the-badge&label=VISITORS)
   
 </div>
