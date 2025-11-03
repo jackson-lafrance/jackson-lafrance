@@ -5,8 +5,18 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jackson-lafrance&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackson-lafrance&theme=radical&hide_border=false)
+  
+  ![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackson-lafrance&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-lafrance&layout=compact&theme=radical&langs_count=8)
   
 </div>
 
@@ -24,7 +34,7 @@
 
 <div align="center">
   
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="20" height="20" alt="Canada Flag" /> **Ottawa, Canada**
+  🇨🇦 **Ottawa, Canada**
   
   👨‍💻 **Dev Degree Intern at Shopify**
   
@@ -39,6 +49,7 @@
 - 👯 I'm open to collaborating on interesting projects
 - 💬 Ask me about **Python**, **React**, **React Native**, **Java**, or **Swift**
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/jacksonlafrance) | [Instagram](http://instagram.com/jacksonlafrance)
+- ⚡ Fun fact: I turn coffee into code ☕
 
 ---
 
@@ -71,30 +82,25 @@
 ## 🎯 Projects
 
 ### 📱 Symoda App and Website
-
 - Used Xcode and Swift UI to design an app which allowed MSP users to open tickets, receive important announcements about system downtimes, and send messages/call support
 - Made a website where MSPs could set up their service groups, add allowed domains, send messages, update users with announcements and customize their user's app design
 - Integrated the two applications using Googles Firebase Firestore database and authentication service
 
 ### 🔧 Tech Army/Keep Connected Apps
-
 - Made similar apps for two local tech support companies using React Native, allowing users to call support, live chat on iMessage, visit the company website, and send emails
 - Also later developed an AI chatbot that users could talk to within the app, letting them get live support relating to their tech issues
 - Finally added support for users to login to accounts and make their live support chats and AI conversations persistent
 
 ### 🎲 Wordle Clone
-
 - Developed a Wordle clone for iOS so I could play it as much as I want and added different versions like 4-word Wordle, French Wordle, and more
 - Integrated a multiplayer system using Firebase and added in quick matches, playing with friends, as well as a global leaderboard
 
 ### 🗺️ Ashbury Maps
-
 - Used React Native to develop an iOS, android, and web app to provide mapping directions around my school for new students and people visiting for events
 - Implemented Dijkstra's search algorithm for computing the fastest route from the user's location to their destination in the app
 - Used AI to convert a map of the school into a number matrix to be used in the algorithm
 
 ### 💪 Vibranium App
-
 - Used React Native and Expo Go to design an ironman training app, with built in strength training tracking
 - Integrated the Strava to import a user's cardio training
 - Used OpenAI's gpt-5 to allow the user to ask questions to a chatbot, with the AI having full access to all their training data so it can give informed advice
