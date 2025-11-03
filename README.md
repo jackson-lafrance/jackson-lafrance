@@ -72,8 +72,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
   
   <a href="https://linkedin.com/in/jacksonlafrance" target="_blank">
@@ -88,6 +86,8 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
+  ![Profile Views](https://komarev.com/ghpvc/?username=jackson-lafrance&color=FF6B9D&style=for-the-badge&label=VISITORS)
+  
 </div>
 
 <br/>
@@ -95,13 +95,5 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=Thanks+for+Visiting!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=jackson-lafrance&color=FF6B9D&style=for-the-badge&label=VISITORS)
   
 </div>
