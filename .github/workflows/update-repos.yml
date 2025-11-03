@@ -2,13 +2,14 @@ name: Update Repositories
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 */6 * * *'  # Runs every 6 hours
   workflow_dispatch:  # Allows manual trigger
   push:
     branches:
       - main
     paths:
       - '.github/workflows/update-repos.yml'
+      - '.github/scripts/update_repos.py'
 
 jobs:
   update-repos:
@@ -36,6 +37,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python .github/scripts/update_repos.py
+          echo "Repository update completed"
       
       - name: Commit changes
         run: |

@@ -19,30 +19,38 @@ def get_repositories():
             headers["Authorization"] = f"token {GITHUB_TOKEN}"
         
         params = {
-            "type": "all",
+            "type": "public",  # Only get public repos
             "sort": "updated",
             "direction": "desc",
             "per_page": per_page,
             "page": page
         }
         
-        response = requests.get(url, headers=headers, params=params)
-        response.raise_for_status()
-        
-        page_repos = response.json()
-        if not page_repos:
-            break
-        
-        repos.extend(page_repos)
-        page += 1
-        
-        if len(page_repos) < per_page:
+        try:
+            response = requests.get(url, headers=headers, params=params, timeout=10)
+            response.raise_for_status()
+            
+            page_repos = response.json()
+            if not page_repos:
+                break
+            
+            # Only add public repos and filter out the profile repo
+            for repo in page_repos:
+                if repo["name"] != GITHUB_USERNAME and not repo.get("archived", False):
+                    repos.append(repo)
+            
+            page += 1
+            
+            if len(page_repos) < per_page:
+                break
+        except Exception as e:
+            print(f"Error fetching repos: {e}")
             break
     
-    # Filter out the profile repo itself and sort by updated date
-    repos = [repo for repo in repos if repo["name"] != GITHUB_USERNAME]
+    # Sort by updated date
     repos.sort(key=lambda x: x["updated_at"], reverse=True)
     
+    print(f"Found {len(repos)} repositories")
     return repos
 
 def generate_repos_section(repos):
@@ -82,6 +90,9 @@ def generate_repos_section(repos):
             markdown += f"  <a href=\"{repo_url2}\">\n"
             markdown += f"    <img align=\"right\" width=\"45%\" src=\"https://github-readme-stats.vercel.app/api/pin/?username={GITHUB_USERNAME}&repo={repo_name2}&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false\" />\n"
             markdown += "  </a>\n"
+        else:
+            # Add empty space if odd number of repos
+            markdown += "  <div width=\"45%\"></div>\n"
         
         markdown += "</div>\n\n<br/>\n\n"
     
