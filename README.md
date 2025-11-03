@@ -14,11 +14,17 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackson-lafrance&theme=radical&hide_border=false&border_radius=10&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=jackson-lafrance&theme=radical&hide_border=false&border_radius=10&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackson-lafrance&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&border_radius=10)
+</div>
+
+<br/>
+
+<div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-lafrance&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&border_radius=10)
+  ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jackson-lafrance&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&border_radius=10)
+  
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jackson-lafrance&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&border_radius=10)
   
 </div>
 
@@ -40,8 +46,6 @@
   
   🔭 Working on exciting projects at Shopify | 🌱 Always learning | 👯 Open to collaborate
   
-  💬 Ask me about **React, Swift, Python, or Full-Stack Development**
-  
   📫 [LinkedIn](https://linkedin.com/in/jacksonlafrance) | [Instagram](http://instagram.com/jacksonlafrance)
   
 </div>
@@ -61,7 +65,6 @@
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   
 </div>
 
