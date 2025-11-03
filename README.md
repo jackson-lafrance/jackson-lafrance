@@ -9,9 +9,9 @@
 ## 📊 GitHub Contributions
 
 <div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackson-lafrance&theme=radical&hide_border=false&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FF6B9D&area=true&area_color=FF6B9D)
-  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackson-lafrance&theme=radical&hide_border=false&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FF6B9D&area=true&area_color=FF6B9D)
+
 </div>
 
 <br/>
