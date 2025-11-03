@@ -48,27 +48,15 @@
 
 ---
 
-## 🎯 Projects
+## 💻 My Repositories
 
-### 📱 Symoda App and Website
-
-**Swift • Firebase • Xcode** | MSP ticket management app with admin website for service groups and announcements
-
-### 🔧 Tech Army/Keep Connected Apps
-
-**React Native • AI Chatbot • Firebase** | Tech support apps with live chat, AI chatbot, and persistent user accounts
-
-### 🎲 Wordle Clone
-
-**Swift • Firebase • iOS** | Multiplayer Wordle with 4-word and French variants, global leaderboard
-
-### 🗺️ Ashbury Maps
-
-**React Native • Dijkstra's Algorithm • AI** | Navigation app using pathfinding algorithms for school campus directions
-
-### 💪 Vibranium App
-
-**React Native • OpenAI • Strava • Firebase** | Ironman training app with AI-powered workout generation and Strava integration
+<div align="center">
+  
+  <a href="https://github.com/jackson-lafrance?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+  </a>
+  
+</div>
 
 ---
 
