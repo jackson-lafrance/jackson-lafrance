@@ -4,8 +4,6 @@
   
 </div>
 
-<br/>
-
 ## 📊 GitHub Contributions
 
 <div align="center">
