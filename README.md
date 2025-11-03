@@ -16,6 +16,18 @@
 
 <br/>
 
+## 💻 My Repositories
+
+<div width="100%">
+  <a href="https://github.com/jackson-lafrance/vibranium">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=vibranium&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 ## 🚀 About Me
 
 <div align="center">
@@ -47,40 +59,6 @@
 </div>
 
 ---
-
-## 💻 My Repositories
-
-<div width="100%">
-  <a href="https://github.com/jackson-lafrance/minescript-code">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=minescript-code&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
-  </a>
-  <a href="https://github.com/jackson-lafrance/variance">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=variance&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
-  </a>
-</div>
-
-<br/>
-
-<div width="100%">
-  <a href="https://github.com/jackson-lafrance/leetcode">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=leetcode&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
-  </a>
-  <a href="https://github.com/jackson-lafrance/vibranium">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=vibranium&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-
-  <a href="https://github.com/jackson-lafrance?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
-  </a>
-
-</div>
----
-
 <div align="center">
   
   <a href="https://linkedin.com/in/jacksonlafrance" target="_blank">

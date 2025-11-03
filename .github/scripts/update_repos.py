@@ -84,16 +84,7 @@ def get_repositories():
 def generate_repos_section(repos):
     """Generate markdown for repositories section"""
     if not repos:
-        return """## 💻 My Repositories
-
-<div align="center">
-  
-  <a href="https://github.com/jackson-lafrance?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
-  </a>
-  
-</div>
-"""
+        return "## 💻 My Repositories\n\n_No public repositories found._\n"
     
     # Group repos into pairs for grid layout
     markdown = "## 💻 My Repositories\n\n"
@@ -118,17 +109,8 @@ def generate_repos_section(repos):
             markdown += f"  <a href=\"{repo_url2}\">\n"
             markdown += f"    <img align=\"right\" width=\"45%\" src=\"https://github-readme-stats.vercel.app/api/pin/?username={GITHUB_USERNAME}&repo={repo_name2}&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false\" />\n"
             markdown += "  </a>\n"
-        else:
-            # Add empty space if odd number of repos
-            markdown += "  <div width=\"45%\"></div>\n"
         
         markdown += "</div>\n\n<br/>\n\n"
-    
-    markdown += "<div align=\"center\">\n\n"
-    markdown += "  <a href=\"https://github.com/jackson-lafrance?tab=repositories\">\n"
-    markdown += "    <img src=\"https://img.shields.io/badge/View_All_Repositories-FF6B9D?style=for-the-badge&logo=github&logoColor=white\" alt=\"View All Repositories\" />\n"
-    markdown += "  </a>\n\n"
-    markdown += "</div>\n"
     
     return markdown
 
