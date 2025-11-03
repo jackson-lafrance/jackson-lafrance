@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=650&lines=Jackson+Lafrance;Dev+Degree+Intern;Carleton+University+Student;Blackjack+Enjoyer;Juggling+Amateur;Lifting+Enthusiast;Clash+Aficionado;NBA+Lover;Code+Writer;Harry+Potter+Expert;Civ+VI+Fan;Book+Worm;Pumpkin+Pie+Addict;Energy+Drinker" alt="Typing SVG" />
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=650&lines=Jackson+Lafrance;Dev+Degree+Intern;Carleton+University+Student;Blackjack+Enjoyer;Juggling+Amateur;Lifting+Enthusiast;Clash+Aficionado;NBA+Lover;Code+Writer;Harry+Potter+Expert;Civ+VI+Fan;Book+Worm;Pumpkin+Pie+Addict;Energy+Drinker)
   
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackson-lafrance&theme=radical&hide_border=false&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FF6B9D&area=true&area_color=FF6B9D" alt="GitHub Activity Graph" />
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackson-lafrance&theme=radical&hide_border=false&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FF6B9D&area=true&area_color=FF6B9D)
   
 </div>
 
