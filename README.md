@@ -41,7 +41,6 @@
 <br/>
 
 <div style="clear: both;"></div>
-
 ---
 
 ## 🚀 About Me
