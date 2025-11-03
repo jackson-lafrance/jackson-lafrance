@@ -39,7 +39,6 @@
 - 👯 I'm open to collaborating on interesting projects
 - 💬 Ask me about **Python**, **React**, **React Native**, **Java**, or **Swift**
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/jacksonlafrance) | [Instagram](http://instagram.com/jacksonlafrance)
-- ⚡ Fun fact: I turn coffee into code ☕
 
 ---
 
