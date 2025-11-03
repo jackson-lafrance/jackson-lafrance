@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jackson+Lafrance+%F0%9F%91%8B;Dev+Degree+Intern+at+Shopify+%F0%9F%9A%80;Coffee+enthusiast+%E2%98%95;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Jackson+Lafrance;Dev+Degree+Intern;Carleton+University+Student;Blackjack+Enjoyer;Juggling+Amateur;Lifting+Enthusiast;Clash+Aficionado;NBA+Lover;Code+Writer;Harry+Potter+Expert;Civ+VI+Fan;Book+Worm;Pumpkin+Pie+Addict;Energy+Drinker" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -76,6 +76,36 @@
   ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 </div>
+
+---
+
+## 🎯 Projects
+
+### 📱 Symoda App and Website
+- Used Xcode and Swift UI to design an app which allowed MSP users to open tickets, receive important announcements about system downtimes, and send messages/call support
+- Made a website where MSPs could set up their service groups, add allowed domains, send messages, update users with announcements and customize their user's app design
+- Integrated the two applications using Googles Firebase Firestore database and authentication service
+
+### 🔧 Tech Army/Keep Connected Apps
+- Made similar apps for two local tech support companies using React Native, allowing users to call support, live chat on iMessage, visit the company website, and send emails
+- Also later developed an AI chatbot that users could talk to within the app, letting them get live support relating to their tech issues
+- Finally added support for users to login to accounts and make their live support chats and AI conversations persistent
+
+### 🎲 Wordle Clone
+- Developed a Wordle clone for iOS so I could play it as much as I want and added different versions like 4-word Wordle, French Wordle, and more
+- Integrated a multiplayer system using Firebase and added in quick matches, playing with friends, as well as a global leaderboard
+
+### 🗺️ Ashbury Maps
+- Used React Native to develop an iOS, android, and web app to provide mapping directions around my school for new students and people visiting for events
+- Implemented Dijkstra's search algorithm for computing the fastest route from the user's location to their destination in the app
+- Used AI to convert a map of the school into a number matrix to be used in the algorithm
+
+### 💪 Vibranium App
+- Used React Native and Expo Go to design an ironman training app, with built in strength training tracking
+- Integrated the Strava to import a user's cardio training
+- Used OpenAI's gpt-5 to allow the user to ask questions to a chatbot, with the AI having full access to all their training data so it can give informed advice
+- Allowed users to create AI workouts, which would automatically be created in their saved workouts
+- Connected a Google Firestore Database to save user data and handle account logins
 
 ---
 
