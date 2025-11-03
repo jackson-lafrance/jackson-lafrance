@@ -49,7 +49,6 @@
 - 👯 I'm open to collaborating on interesting projects
 - 💬 Ask me about **Python**, **React**, **React Native**, **Java**, or **Swift**
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/jacksonlafrance) | [Instagram](http://instagram.com/jacksonlafrance)
-- ⚡ Fun fact: I turn coffee into code ☕
 
 ---
 
@@ -68,13 +67,6 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  
-  ### Tools & Technologies
-  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
 </div>
 
 ---
@@ -82,25 +74,30 @@
 ## 🎯 Projects
 
 ### 📱 Symoda App and Website
+
 - Used Xcode and Swift UI to design an app which allowed MSP users to open tickets, receive important announcements about system downtimes, and send messages/call support
 - Made a website where MSPs could set up their service groups, add allowed domains, send messages, update users with announcements and customize their user's app design
 - Integrated the two applications using Googles Firebase Firestore database and authentication service
 
 ### 🔧 Tech Army/Keep Connected Apps
+
 - Made similar apps for two local tech support companies using React Native, allowing users to call support, live chat on iMessage, visit the company website, and send emails
 - Also later developed an AI chatbot that users could talk to within the app, letting them get live support relating to their tech issues
 - Finally added support for users to login to accounts and make their live support chats and AI conversations persistent
 
 ### 🎲 Wordle Clone
+
 - Developed a Wordle clone for iOS so I could play it as much as I want and added different versions like 4-word Wordle, French Wordle, and more
 - Integrated a multiplayer system using Firebase and added in quick matches, playing with friends, as well as a global leaderboard
 
 ### 🗺️ Ashbury Maps
+
 - Used React Native to develop an iOS, android, and web app to provide mapping directions around my school for new students and people visiting for events
 - Implemented Dijkstra's search algorithm for computing the fastest route from the user's location to their destination in the app
 - Used AI to convert a map of the school into a number matrix to be used in the algorithm
 
 ### 💪 Vibranium App
+
 - Used React Native and Expo Go to design an ironman training app, with built in strength training tracking
 - Integrated the Strava to import a user's cardio training
 - Used OpenAI's gpt-5 to allow the user to ask questions to a chatbot, with the AI having full access to all their training data so it can give informed advice
@@ -134,15 +131,5 @@
   <a href="https://github.com/jackson-lafrance" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💻 Check out my repos and feel free to contribute!
-  
-  ![Snake animation](https://github.com/jackson-lafrance/jackson-lafrance/blob/output/github-contribution-grid-snake.svg)
   
 </div>
