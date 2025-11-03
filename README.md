@@ -6,14 +6,6 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=jackson-lafrance&theme=radical&hide_border=false&border_radius=10&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=jackson-lafrance&color=FF6B9D&style=for-the-badge&label=VISITORS)
   
 </div>
@@ -76,7 +68,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Contributions
 
 <div align="center">
   
