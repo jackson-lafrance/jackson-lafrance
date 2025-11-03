@@ -5,18 +5,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jackson-lafrance&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackson-lafrance&theme=radical&hide_border=false)
-  
-  ![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackson-lafrance&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-lafrance&layout=compact&theme=radical&langs_count=8)
   
 </div>
 
@@ -47,7 +37,6 @@
 - 🔭 I'm currently working on exciting projects at Shopify
 - 🌱 I'm always learning new technologies and best practices
 - 👯 I'm open to collaborating on interesting projects
-- 💬 Ask me about **Python**, **React**, **React Native**, **Java**, or **Swift**
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/jacksonlafrance) | [Instagram](http://instagram.com/jacksonlafrance)
 
 ---
