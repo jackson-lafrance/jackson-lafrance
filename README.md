@@ -89,11 +89,3 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=jackson-lafrance&color=FF6B9D&style=for-the-badge&label=VISITORS)
   
 </div>
-
-<br/>
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=Thanks+for+Visiting!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  
-</div>
