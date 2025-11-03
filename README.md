@@ -6,14 +6,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/jackson-lafrance/jackson-lafrance/blob/dist/github-contribution-grid-snake.svg)
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
   ![GitHub Streak](https://streak-stats.demolab.com/?user=jackson-lafrance&theme=radical&hide_border=false&border_radius=10&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
   
 </div>
@@ -22,9 +14,9 @@
 
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jackson-lafrance&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&border_radius=10)
+  <img src="https://github-readme-stats.vercel.app/api?username=jackson-lafrance&theme=radical&show_icons=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D" alt="GitHub stats" />
   
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jackson-lafrance&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&border_radius=10)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-lafrance&theme=radical&layout=compact&bg_color=0D1117&title_color=FF6B9D&border_color=FF6B9D" alt="Top Langs" />
   
 </div>
 
