@@ -86,34 +86,37 @@ def generate_repos_section(repos):
     if not repos:
         return "## 💻 My Repositories\n\n_No public repositories found._\n"
     
-    # Group repos into pairs for grid layout
+    # Group repos into pairs for grid layout using table
     markdown = "## 💻 My Repositories\n\n"
     
-    # Create grid layout with 2 columns
+    # Create grid layout with 2 columns using table
     for i in range(0, len(repos), 2):
-        markdown += "<div width=\"100%\">\n"
+        markdown += "<table>\n<tr>\n"
         
         # Left repo
         repo1 = repos[i]
         repo_name1 = repo1["name"]
         repo_url1 = repo1["html_url"]
-        markdown += f"  <a href=\"{repo_url1}\">\n"
-        markdown += f"    <img align=\"left\" width=\"45%\" src=\"https://github-readme-stats.vercel.app/api/pin/?username={GITHUB_USERNAME}&repo={repo_name1}&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false\" />\n"
-        markdown += "  </a>\n"
+        markdown += f"  <td width=\"50%\">\n"
+        markdown += f"    <a href=\"{repo_url1}\">\n"
+        markdown += f"      <img width=\"100%\" src=\"https://github-readme-stats.vercel.app/api/pin/?username={GITHUB_USERNAME}&repo={repo_name1}&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false\" />\n"
+        markdown += "    </a>\n"
+        markdown += "  </td>\n"
         
         # Right repo (if exists)
         if i + 1 < len(repos):
             repo2 = repos[i + 1]
             repo_name2 = repo2["name"]
             repo_url2 = repo2["html_url"]
-            markdown += f"  <a href=\"{repo_url2}\">\n"
-            markdown += f"    <img align=\"right\" width=\"45%\" src=\"https://github-readme-stats.vercel.app/api/pin/?username={GITHUB_USERNAME}&repo={repo_name2}&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false\" />\n"
-            markdown += "  </a>\n"
+            markdown += f"  <td width=\"50%\">\n"
+            markdown += f"    <a href=\"{repo_url2}\">\n"
+            markdown += f"      <img width=\"100%\" src=\"https://github-readme-stats.vercel.app/api/pin/?username={GITHUB_USERNAME}&repo={repo_name2}&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false\" />\n"
+            markdown += "    </a>\n"
+            markdown += "  </td>\n"
+        else:
+            markdown += "  <td width=\"50%\"></td>\n"
         
-        markdown += "</div>\n\n<br/>\n\n"
-    
-    # Add clearfix to prevent content from flowing into the grid
-    markdown += "<div style=\"clear: both;\"></div>\n\n"
+        markdown += "</tr>\n</table>\n\n"
     
     return markdown
 
