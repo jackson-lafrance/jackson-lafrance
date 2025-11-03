@@ -14,16 +14,6 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=jackson-lafrance&theme=radical&show_icons=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D" alt="GitHub stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-lafrance&theme=radical&layout=compact&bg_color=0D1117&title_color=FF6B9D&border_color=FF6B9D" alt="Top Langs" />
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=jackson-lafrance&color=FF6B9D&style=for-the-badge&label=VISITORS)
   
 </div>
