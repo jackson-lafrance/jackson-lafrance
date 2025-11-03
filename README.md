@@ -39,6 +39,9 @@
 </div>
 
 <br/>
+
+<div style="clear: both;"></div>
+
 ---
 
 ## 🚀 About Me
@@ -72,6 +75,7 @@
 </div>
 
 ---
+
 <div align="center">
   
   <a href="https://linkedin.com/in/jacksonlafrance" target="_blank">

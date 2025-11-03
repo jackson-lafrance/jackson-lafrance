@@ -112,6 +112,9 @@ def generate_repos_section(repos):
         
         markdown += "</div>\n\n<br/>\n\n"
     
+    # Add clearfix to prevent content from flowing into the grid
+    markdown += "<div style=\"clear: both;\"></div>\n\n"
+    
     return markdown
 
 def update_readme():
