@@ -50,14 +50,21 @@
 
 ## 💻 My Repositories
 
+<div width="100%">
+  <a href="https://github.com/jackson-lafrance/vibranium">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=vibranium&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
+  </a>
+</div>
+
+<br/>
+
 <div align="center">
-  
+
   <a href="https://github.com/jackson-lafrance?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repositories-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
-  
-</div>
 
+</div>
 ---
 
 <div align="center">
