@@ -19,13 +19,26 @@
 ## 💻 My Repositories
 
 <div width="100%">
-  <a href="https://github.com/jackson-lafrance/vibranium">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=vibranium&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
+  <a href="https://github.com/jackson-lafrance/minescript-code">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=minescript-code&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
+  </a>
+  <a href="https://github.com/jackson-lafrance/variance">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=variance&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
   </a>
 </div>
 
 <br/>
 
+<div width="100%">
+  <a href="https://github.com/jackson-lafrance/leetcode">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=leetcode&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
+  </a>
+  <a href="https://github.com/jackson-lafrance/vibranium">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=vibranium&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
+  </a>
+</div>
+
+<br/>
 ---
 
 ## 🚀 About Me
