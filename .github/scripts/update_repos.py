@@ -19,7 +19,7 @@ def get_repositories():
             headers["Authorization"] = f"token {GITHUB_TOKEN}"
         
         params = {
-            "type": "public",  # Only get public repos
+            "type": "all",  # Get all repos (we'll filter public ones)
             "sort": "updated",
             "direction": "desc",
             "per_page": per_page,
@@ -28,16 +28,38 @@ def get_repositories():
         
         try:
             response = requests.get(url, headers=headers, params=params, timeout=10)
+            
+            # Check rate limit headers
+            remaining = response.headers.get('X-RateLimit-Remaining', 'unknown')
+            limit = response.headers.get('X-RateLimit-Limit', 'unknown')
+            print(f"Rate limit: {remaining}/{limit} remaining")
+            
             response.raise_for_status()
             
             page_repos = response.json()
+            print(f"Page {page}: Received {len(page_repos)} repositories")
+            
             if not page_repos:
                 break
             
             # Only add public repos and filter out the profile repo
             for repo in page_repos:
-                if repo["name"] != GITHUB_USERNAME and not repo.get("archived", False):
+                repo_name = repo["name"]
+                is_private = repo.get("private", False)
+                is_archived = repo.get("archived", False)
+                
+                if repo_name != GITHUB_USERNAME and not is_private and not is_archived:
                     repos.append(repo)
+                    print(f"  Added: {repo_name} (public, not archived)")
+                else:
+                    reason = []
+                    if repo_name == GITHUB_USERNAME:
+                        reason.append("profile repo")
+                    if is_private:
+                        reason.append("private")
+                    if is_archived:
+                        reason.append("archived")
+                    print(f"  Skipped: {repo_name} ({', '.join(reason)})")
             
             page += 1
             
@@ -45,12 +67,18 @@ def get_repositories():
                 break
         except Exception as e:
             print(f"Error fetching repos: {e}")
+            if hasattr(e, 'response'):
+                print(f"Response status: {e.response.status_code}")
+                print(f"Response: {e.response.text[:200]}")
             break
     
     # Sort by updated date
     repos.sort(key=lambda x: x["updated_at"], reverse=True)
     
-    print(f"Found {len(repos)} repositories")
+    print(f"\nTotal repositories found: {len(repos)}")
+    for repo in repos:
+        print(f"  - {repo['name']}")
+    
     return repos
 
 def generate_repos_section(repos):
