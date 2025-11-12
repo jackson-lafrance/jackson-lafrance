@@ -19,13 +19,13 @@
 <table>
 <tr>
   <td width="50%">
-    <a href="https://github.com/jackson-lafrance/Fixated">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=Fixated&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
+    <a href="https://github.com/jackson-lafrance/variance">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=variance&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
     </a>
   </td>
   <td width="50%">
-    <a href="https://github.com/jackson-lafrance/variance">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=variance&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
+    <a href="https://github.com/jackson-lafrance/Fixated">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=Fixated&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
     </a>
   </td>
 </tr>
