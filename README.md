@@ -4,39 +4,6 @@
   
 </div>
 
-## 💻 My Repositories
-
-<table>
-<tr>
-  <td width="50%">
-    <a href="https://github.com/jackson-lafrance/adventofcode">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=adventofcode&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
-    </a>
-  </td>
-  <td width="50%">
-    <a href="https://github.com/jackson-lafrance/sidequest">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=sidequest&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
-    </a>
-  </td>
-</tr>
-</table>
-
-<table>
-<tr>
-  <td width="50%">
-    <a href="https://github.com/jackson-lafrance/java-search-engine">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=java-search-engine&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
-    </a>
-  </td>
-  <td width="50%">
-    <a href="https://github.com/jackson-lafrance/leetcode">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jackson-lafrance&repo=leetcode&theme=radical&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&border_color=FF6B9D&hide_border=false" />
-    </a>
-  </td>
-</tr>
-</table>
----
-
 ## 🚀 About Me
 
 <div align="center">
