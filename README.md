@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=650&lines=Jackson+Lafrance;Dev+Degree+Intern;Carleton+University+Student;Blackjack+Enjoyer;Juggling+Amateur;Lifting+Enthusiast;Clash+Aficionado;NBA+Lover;Code+Writer;Harry+Potter+Expert;Civ+VI+Fan;Book+Worm;Pumpkin+Pie+Addict;Energy+Drinker)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=2500&pause=800&color=FF6B9D&center=true&vCenter=true&width=650&lines=Jackson+Lafrance;Dev+Degree+Intern;Carleton+University+Student;)
   
 </div>
 <div align="center">
